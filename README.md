@@ -6,5 +6,3 @@
 4) Press `SHIFT + RIGHT CLICK` and click "Open Powershell window here"
 5) Run `.\setup.exe /configure .\configuration-Office2021Enterprise.xml`
 6) Wait until intalled and then you're done!
-
-**NOTE: ALL FILES ARE OWNED BY MICROSOFT.**
